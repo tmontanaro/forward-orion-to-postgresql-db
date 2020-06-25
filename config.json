@@ -1,0 +1,17 @@
+{
+  "configuration":{
+    "port": 1028,
+    "host" : "192.168.1.100",
+    "server_url": "/accumulate",
+    "verbose": 1,
+    "pretty": true,
+    "https": false,
+    "key_file": "None",
+    "cert_file": "None",
+    "loggingLevel": "ERROR",
+    "dbHost": "localhost",
+    "dbName": "orion-data-db",
+    "dbUser": "abcuser",
+    "dbPassword": "pass"
+  }
+}

@@ -1,0 +1,6 @@
+Flask==1.1.2
+pyOpenSSL==19.1.0
+shortuuid==1.0.1
+singleton_decorator==1.0.0
+psycopg2=2.8.5
+multiprocessing_logging=0.3.1
